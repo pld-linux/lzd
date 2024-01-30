@@ -1,12 +1,12 @@
 Summary:	Simplified decompressor for lzip files
 Summary(pl.UTF-8):	Uproszczony dekompresor plików lzip
 Name:		lzd
-Version:	1.2
+Version:	1.4
 Release:	1
 License:	Free
 Group:		Applications/Archiving
 Source0:	http://download.savannah.gnu.org/releases/lzip/lzd/%{name}-%{version}.tar.lz
-# Source0-md5:	e5b57f13a16bd2c999194b80649ec44b
+# Source0-md5:	77539b5bb4ee2eb7cf1ce68ba124a253
 URL:		http://savannah.nongnu.org/projects/lzip/
 BuildRequires:	libstdc++-devel
 BuildRequires:	lzip
